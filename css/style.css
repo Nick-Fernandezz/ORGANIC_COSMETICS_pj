@@ -34,7 +34,7 @@ a {
 }
 
 .main-container {
-    margin-bottom: 74px;
+    margin-bottom: 140px;
 }
 
 .title-img{
@@ -42,7 +42,7 @@ a {
     
 }
 .title-img img {
-    /* width: 100%; */
+    width: 100%;
 }
 
 .title {
@@ -50,7 +50,7 @@ a {
     font-family: 'Manrope';
     font-style: normal;
     font-weight: 600;
-    font-size: 70px;
+    font-size: 60px;
     line-height: 109px;
     letter-spacing: 0.05em;
 }
@@ -94,13 +94,14 @@ a {
 }
 
 .btn-actions {
+    
     margin-left: 76px;
 
     color: #FFFFFF;
     padding-top: 24px;
     padding-bottom: 24px;
-    padding-left: 47px;
-    padding-right: 47px;
+    padding-left: 60px;
+    padding-right: 60px;
     border: 1px solid #AE8758;
     border-radius: 40px;
 }
@@ -251,6 +252,8 @@ a {
     padding: auto;
     background: url(image-F0qq8pRsg-transformed.png);
     filter: drop-shadow(7px 7px 10px rgba(0, 0, 0, 0.4));
+    height: 100%;
+    width: auto;
 }
 .element-care-p {
     width: 207px;
